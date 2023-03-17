@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dark-blue {
+  color: hsl(243, 87%, 12%);
+}
+
+.dark {
+  background: hsl(243, 87%, 12%);
+}
+
+.desaturated-blue {
+  background: hsl(238, 22%, 44%);
+}
+
+.bright-blue {
+  color: hsl(224, 93%, 58%);
+}
+
+.blue {
+  background: hsl(224, 83%, 57%);
+}
+
+.moderate-cyan {
+  color: hsl(170, 45%, 43%);
+}
+
+.light-grayish-blue {
+  background: hsl(240, 34%, 39%);
+}
+
+.light-gray {
+  color: hsl(0, 0%, 75%);
+}
